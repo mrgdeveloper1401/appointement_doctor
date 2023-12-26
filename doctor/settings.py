@@ -36,6 +36,8 @@ ALLOWED_HOSTS = []
 CREATE_APP = [
     'user.apps.UserConfig',
     'core.apps.CoreConfig',
+    'clinic.apps.ClinicConfig',
+    'image.apps.ImageConfig',
 ]
 
 INSTALLED_APPS = [
