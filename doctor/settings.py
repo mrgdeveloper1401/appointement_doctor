@@ -39,6 +39,7 @@ CREATE_APP = [
     'clinic.apps.ClinicConfig',
     'image.apps.ImageConfig',
     'doctors.apps.DoctorsConfig',
+    'patient.apps.PatientConfig',
 ]
 
 INSTALLED_APPS = [
